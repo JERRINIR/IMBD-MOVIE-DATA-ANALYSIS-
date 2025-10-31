@@ -67,3 +67,15 @@ How to run this project
 3) And import the libraries
 4) upload your datset
 5) Then,Clean and analysis using different types of chart and method .
+
+👨‍💻 Author
+
+Jerry
+🎓 B.Tech (ECE), Dr. MGR Educational and Research Institute
+💼 Data Analytics Enthusiast
+
+📫 LinkedIn Profile www.linkedin.com/in/jerrinir2003
+
+
+#Python #DataAnalytics #EDA #IMDB #Movies #Visualization #Pandas #Seaborn
+   
